@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Three JS.**
 
-- 📝 I regularly write articles on [new technologies, design patterns and performance.](new technologies, design patterns and performance.)
+- 📝 I regularly write articles on new technologies, design patterns and performance.
 
 - 💬 Ask me about **MERN, Drupal, Python.**
 
