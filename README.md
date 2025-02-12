@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rchaubey16" target="blank"><img src="https://img.shields.io/twitter/follow/rchaubey16?logo=twitter&style=for-the-badge" alt="rchaubey16" /></a> </p>
 
-- 🔭 I’m currently working on **DevConnector (A social media website).**
-
-- 🌱 I’m currently learning **Three JS.**
+- 🌱 I’m currently learning **GenAI.**
 
 - 📝 I regularly write articles on new technologies, design patterns and performance.
 
