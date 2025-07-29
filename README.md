@@ -11,5 +11,5 @@ Fun Facts:
 
 ---
 
-Currently working on: building apps with AI integration ([Name my variable](https://marketplace.visualstudio.com/items?itemName=RuturajChaubey.name-my-variable)) and learning more about cloud architecture.
+Currently working on: building apps with AI integration like [Name my variable](https://marketplace.visualstudio.com/items?itemName=RuturajChaubey.name-my-variable) and learning more about cloud architecture.
 
