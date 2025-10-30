@@ -9,7 +9,3 @@ Fun Facts:
 - *How I met your mother* is my favorite sitcom.
 - I remember random movie quotes better than people’s birthdays.
 
----
-
-Currently working on: building apps with AI integration like [Name my variable](https://marketplace.visualstudio.com/items?itemName=RuturajChaubey.name-my-variable) and learning more about cloud architecture.
-
