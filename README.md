@@ -11,5 +11,5 @@ When I’m not coding, you’ll probably find me at the gym, on a badminton cour
 
 ---
 
-I’m currently diving into [Go](http://go.dev/), and [this](https://github.com/RChaubey16/todo-list-cli) is the latest project I’ve built with it.
+Currently building: [Knowbase](https://github.com/RChaubey16/knowbase-api)
 
